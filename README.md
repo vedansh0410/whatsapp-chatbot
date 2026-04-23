@@ -10,7 +10,7 @@ CREATE DATABASE chatbot_db;
 ### 2. Update application.properties
 ```properties
 spring.datasource.username=postgres
-spring.datasource.password=your_password
+spring.datasource.password=12345678
 ```
 
 ### 3. Run
